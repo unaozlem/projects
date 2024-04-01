@@ -1,0 +1,12 @@
+numpy
+pandas
+ipython
+streamlit
+streamlit-aggrid
+scikit-learn
+scipy
+python_speech_features
+random
+scipy
+keras
+tqdm
